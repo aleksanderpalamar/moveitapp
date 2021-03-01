@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://pt-br.reactjs.org/)
-- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
 
@@ -38,42 +38,13 @@ Esta aplicação foi desenvolvida pensando na sua saúde, assim poderá fazer ex
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## Para rodar a Aplicação localmente
+## Para executar o projeto
 
-Você deverá realizar alguns procedimento.
+- Clone o repositório
+- Instale as dependências com yarn
+- Inicie o servidor com `yarn dev`
 
-Primeiramente ter o nodejs instalado na sua maquina.
-Depois disso é só fazer um git clone do projeto no terminal.
-
-```bash
-git clone github.com:aleksanderpalamar/moveitapp.git
-```
-
-Acessar a pasta do projeto.
-
-```bash
-cd moveitapp
-```
-
-Dentro do projeto deverá instalar as dependencias com <code>npm</code> ou <code>yarn</code>.
-
-```bash
-npm install
-```
-ou
-```bash
-yarn install
-```
-
-Após isso você consiguirá iniciar o servidor de desenvolvimento do <code>NextJS</code>.
-
-```bash
-npm dev
-```
-ou
-```bash
-yarn dev
-```
+Agora você pode acessar `localhost:3000` do seu navegador.
 
 <strong>
 <p>
