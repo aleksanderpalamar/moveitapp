@@ -2,8 +2,6 @@ import { useContext } from 'react';
 import {CountdownContext} from '../context/CountdownContext';
 import styles from '../styles/components/Countdown.module.css';
 
-
-
 /* Countdown */
 export function Countdown() {
     const { 
